@@ -3,6 +3,8 @@
 ## Objetivo
 Implementar uma aplicação **cliente–servidor** em C, usando **sockets TCP (IPv4)**, na qual o cliente envia **operações matemáticas** e o servidor **executa** e **retorna o resultado**. A atividade reforça conceitos de redes, protocolos baseados em texto, *parsing* robusto, tratamento de erros, organização do código e automação de build com **Makefile**.
 
+Pode ser feito em duplas!
+
 ---
 
 ## Descrição Geral
@@ -107,7 +109,8 @@ Escolha **uma** das opções:
 1. **PDF** único contendo **todo o código-fonte**, **Makefile** e **README** (com trechos de código bem formatados), **OU**
 2. **Link de um repositório** com o projeto completo (**README**, fontes e **Makefile**).
 
-Inclua no README:
+Inclua no README (ou PDF):
+- Nome da DUPLA complet com RA
 - Como compilar e executar (exemplos de comandos).
 - Formato do protocolo e exemplos.
 - Decisões de projeto e limitações conhecidas.
